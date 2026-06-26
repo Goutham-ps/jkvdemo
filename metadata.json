@@ -1,0 +1,6 @@
+{
+  "name": "JKV Luxury Textiles",
+  "description": "A premium e-commerce website for JKV, a traditional Indian textile brand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
